@@ -1,86 +1,101 @@
-Modern Website
+# 🌐 Modern Website
 
-A clean, responsive, and modern front-end website built with HTML, CSS, JavaScript and Vite.
+A clean, responsive, and modern front-end website built using **HTML**, **CSS**, **JavaScript**, and **Vite**.
 
-🛠️ Technologies Used
+---
 
-HTML5
+## 🚀 Features
+- ⚡ Lightning-fast development with Vite  
+- 💎 Clean and minimal UI design  
+- 📱 Fully responsive (mobile, tablet, and desktop)  
+- 🎨 Easy to customize and extend  
+- 🧩 Organized folder structure  
+- 🔍 SEO-friendly HTML structure  
 
-CSS3 (Flexbox / Grid)
+---
 
-JavaScript (ES6+)
+## 🧠 Technologies Used
+| Technology | Purpose |
+|-------------|----------|
+| **HTML5** | Structure of the website |
+| **CSS3 (Flexbox & Grid)** | Styling and responsive layout |
+| **JavaScript (ES6+)** | Interactivity and logic |
+| **Vite** | Fast build tool for modern development |
+| *(Optional)* **Tailwind CSS / Sass** | For advanced styling |
+| *(Optional)* **ESLint / Prettier** | For clean and consistent code |
 
-Vite (for fast development)
+---
 
-Optional: any CSS framework or tool you used (e.g., Tailwind CSS, Sass)
-
-Optional: Linter / formatter (e.g., ESLint, Prettier)
-
-🔍 Project Structure
+## 📁 Project Structure
 modern-website/
+│
 ├── index.html
 ├── package.json
 ├── vite.config.js
 ├── src/
-│   ├── main.jsx
-│   ├── App.jsx
-│   ├── assets/
-│   └── styles/
-└── public/
-    └── favicon.svg
+│ ├── main.jsx
+│ ├── App.jsx
+│ ├── assets/
+│ └── styles/
+├── public/
+│ └── favicon.svg
+└── README.md
 
-🚀 Setup & Installation
+yaml
+Copy code
 
-Clone the repository:
+---
 
-git clone https://github.com/Singh-OmDev/modern-website.git
-cd modern-website
+## 🧩 Setup & Installation
 
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Singh-OmDev/modern-website.git
+   cd modern-website
+Install Dependencies
 
-Install dependencies:
-
+bash
+Copy code
 npm install
+Run the Development Server
 
-
-Start the development server:
-
+bash
+Copy code
 npm run dev
+Build for Production
 
-
-Build for production:
-
+bash
+Copy code
 npm run build
+Preview the Production Build
 
-
-Preview production build:
-
+bash
+Copy code
 npm run preview
+🧑‍💻 Contributing
+Contributions are always welcome!
 
-🎯 Features
+Fork the repository
 
-Responsive layout that works across devices (mobile / tablet / desktop)
+Create a new branch:
 
-Clean and modern UI design
+bash
+Copy code
+git checkout -b feature/your-feature
+Commit your changes:
 
-Fast development environment (via Vite)
+bash
+Copy code
+git commit -m "Add your feature"
+Push and open a Pull Request
 
-SEO friendly (semantic HTML, meta tags)
+📜 License
+This project is open-source and available under the MIT License.
 
-Easy customization (replace assets, styles, components)
+👨‍💻 Developed by Om Singh
+yaml
+Copy code
 
-✅ How to Contribute
+---
 
-Fork this repository.
-
-Create a new branch (git checkout -b feature/MyFeature).
-
-Commit your changes (git commit -m "Add MyFeature").
-
-Push to your branch (git push origin feature/MyFeature).
-
-Open a Pull Request describing your changes.
-
-📄 License
-
-This project is open source and available under the MIT License — see the LICENSE
- file for details.
+Would you like me to customize this further — for example, adding **live demo link**, **preview image**, o
