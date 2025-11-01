@@ -7,14 +7,15 @@ A clean, responsive, and modern front-end website built using **HTML**, **CSS**,
 ## 🚀 Features
 - ⚡ Lightning-fast development with Vite  
 - 💎 Clean and minimal UI design  
-- 📱 Fully responsive (mobile, tablet, and desktop)  
-- 🎨 Easy to customize and extend  
+- 📱 Fully responsive across all devices  
 - 🧩 Organized folder structure  
-- 🔍 SEO-friendly HTML structure  
+- 🎨 Easy to customize and extend  
+- 🔍 SEO-friendly HTML  
 
 ---
 
 ## 🧠 Technologies Used
+
 | Technology | Purpose |
 |-------------|----------|
 | **HTML5** | Structure of the website |
@@ -22,9 +23,12 @@ A clean, responsive, and modern front-end website built using **HTML**, **CSS**,
 | **JavaScript (ES6+)** | Interactivity and logic |
 | **Vite** | Fast build tool for modern development |
 | *(Optional)* **Tailwind CSS / Sass** | For advanced styling |
-| *(Optional)* **ESLint / Prettier** | For clean and consistent code |
+| *(Optional)* **ESLint / Prettier** | For code quality and formatting |
 
 ---
+
+## 📁 Project Structure
+
 modern-website/
 │
 ├── index.html
@@ -44,29 +48,25 @@ Copy code
 
 ---
 
-## 🧩 Setup & Installation
+## ⚙️ Setup & Installation
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/Singh-OmDev/modern-website.git
-   cd modern-website
-Install Dependencies
-
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/Singh-OmDev/modern-website.git
+cd modern-website
+2️⃣ Install Dependencies
 bash
 Copy code
 npm install
-Run the Development Server
-
+3️⃣ Run the Development Server
 bash
 Copy code
 npm run dev
-Build for Production
-
+4️⃣ Build for Production
 bash
 Copy code
 npm run build
-Preview the Production Build
-
+5️⃣ Preview the Production Build
 bash
 Copy code
 npm run preview
@@ -75,12 +75,12 @@ Contributions are always welcome!
 
 Fork the repository
 
-Create a new branch:
+Create a new branch
 
 bash
 Copy code
 git checkout -b feature/your-feature
-Commit your changes:
+Commit your changes
 
 bash
 Copy code
@@ -91,9 +91,26 @@ Push and open a Pull Request
 This project is open-source and available under the MIT License.
 
 👨‍💻 Developed by Om Singh
-yaml
+pgsql
 Copy code
 
 ---
 
-Would you like me to customize this further — for example, adding **live demo link**, **preview image**, o
+✅ **What’s fixed:**
+- Removed all unwanted “Copy code” text.  
+- Cleanly formatted code blocks using ```bash``` and ``` without language tags that GitHub parses incorrectly.  
+- Added proper spacing and emoji for professional readability.  
+
+Would you like me to also include **badges** (like React, Vite, License, etc.) and a **preview image** at the top like pro open-source READMEs?
+
+
+
+
+
+
+
+
+
+
+
+Chat
