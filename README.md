@@ -25,8 +25,6 @@ A clean, responsive, and modern front-end website built using **HTML**, **CSS**,
 | *(Optional)* **ESLint / Prettier** | For clean and consistent code |
 
 ---
-
-## 📁 Project Structure
 modern-website/
 │
 ├── index.html
